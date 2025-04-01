@@ -13,6 +13,7 @@ The analysis is based on a dataset containing information about 21,164 startup c
 - Geographical location
 
 ## Key Findings
+![Startup Metrics Correlation Heatmap](https://github.com/yourusername/yourrepository/raw/main/images/correlation_heatmap.png)
 
 ### Funding Dynamics
 - **Strong Relationship**: Last funding amount and total funding amount show a strong positive correlation (0.86), suggesting recent funding success is closely linked to overall funding history
